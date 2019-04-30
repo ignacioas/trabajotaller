@@ -86,9 +86,9 @@ Centos 7
 <p align = "center">  
 	<img src = "imagenes centos7/29.PNG">
 </p>
-<p align = "center">  
+<p align = "center">           
 	<img src = "imagenes centos7/30.PNG">
-</p> 
+</p >
 <p align = "center">  
-	<img src = "imagenes centos7/31.PNG">
+<img src = "31.PNG">
 </p>
